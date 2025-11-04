@@ -46,7 +46,12 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 
 ## 6. Building SDRAM Controller in Verilog from Scratch
 
-## 7. PyUVM Series Part 1 to 4
+## 7. PyUVM Series
+
+- Part 1 : Python Fundamentals
+- Part 2 : COCOTB fundamentals
+- Part 3 : Python OOPS fundamentals
+- Part 4 : Python OOPS verification env projects
 
 ---
 
