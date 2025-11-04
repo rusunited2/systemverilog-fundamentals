@@ -31,7 +31,8 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 - Verification Series Part 4: UVM Projects  
 - Verification Series Part 5: UVM RAL Essentials  
 - Verification Series Part 6: SystemVerilog Essentials  
-- Verification Series Part 7: SystemVerilog Essentials  
+- Verification Series Part 7: SystemVerilog Essentials
+- Verification Series Part 8: Code Coverage with Vivado 2024.1
 
 ## 4. Communication Series in Verilog
 
