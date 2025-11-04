@@ -17,9 +17,11 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 
 ## 1. Digital Design with SystemVerilog HDL
 
-- Implementation of basic Digital Building Blocks: MUX, Priority Encoder, ALU, Registers and Counters, FSMs, Memory Design, Serial Communication Projects**
+- Implementation of basic Digital Building Blocks: MUX, Priority Encoder, ALU, Registers and Counters, FSMs, Memory Design, Serial Communication Projects
 
 ## 2. Verilog Lint Essentials for RTL Design Engineer
+
+- Lint Rules: Reset, Clock, Assignment, Naming, Loop, Function & Task, Case, Combinational Logic, Structural Modeling, Multiple Drivers, Code Hygine, Synthesis
 
 ## 3. Verification Series
 
