@@ -74,6 +74,8 @@ Practical SystemVerilog and Verilog code repository showcasing foundational lear
 1. RTL Design
 - [RTL Design Tutorial](https://hdlbits.01xz.net/wiki/Problem_sets)
 - [RTL Design Interview Practice](https://quicksilicon.in/)
+- [Hardware Interview Question Bank](https://www.hardware-interview.com/study)
 2. Verification
 - [ChipVerify UVM Tutorials](https://www.chipverify.com/tutorials/uvm)
 - [Cracking Digital VLSI Verification Interview: Interview Success](https://www.amazon.com/Cracking-Digital-VLSI-Verification-Interview/dp/1519089864)
+- [Hardware Interview Question Bank](https://www.hardware-interview.com/study)
